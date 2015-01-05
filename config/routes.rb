@@ -1,8 +1,10 @@
 Rails.application.routes.draw do
-  get 'intro' => 'static_pages#intro'
-  # get 'static_pages/intro'
 
-  get 'products' => 'static_pages#products'
+
+  resources :products
+
+  get 'about' => 'static_pages#about'
+  # get 'static_pages/intro'
 
   get 'activities' => 'static_pages#activties'
 
