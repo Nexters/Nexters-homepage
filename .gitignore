@@ -17,3 +17,4 @@
 
 # Ignore rubymine project settings
 /.idea
+/vendor/bundle
