@@ -14,7 +14,7 @@ Things you may want to cover:
 * Database creation
    + development,test environment : sqlite ~> 1.3.0
    + production environment : postgresql
-   + ''' rake db:migrate '''
+   + 'rake db:migrate'
 
 * How to run the test suite
     None
