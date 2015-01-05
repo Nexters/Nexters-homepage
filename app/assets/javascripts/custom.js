@@ -85,7 +85,7 @@
     $container.imagesLoaded(function () {
         setPortfolio();
     });
- q
+
     $(window).on('resize', function () {
         setPortfolio();
     });
