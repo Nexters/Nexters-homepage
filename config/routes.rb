@@ -1,6 +1,8 @@
 Rails.application.routes.draw do
 
 
+  get 'home/index'
+
   resources :products
 
   get 'about' => 'static_pages#about'
