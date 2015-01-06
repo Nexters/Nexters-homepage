@@ -13,7 +13,7 @@
         <h5>넥스터즈는 개발자와 디자이너를 위한 연합 앱 개발 동아리입니다.</h5>
       </div>
       <div class="col-lg-8 col-lg-offset-2 himg">
-        <%= image_tag "infographic01.png", :class => "img-responsive"%>
+        <%= image_tag "browser.png", :class => "img-responsive"%>
       </div>
     </div><!-- /row -->
   </div> <!-- /container -->

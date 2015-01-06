@@ -207,6 +207,7 @@ a:focus {
 
 #headerwrap {
 	background-color: #00b3fe;
+	min-height: 550px;
 	padding-top: 100px;
 	padding-bottom: 100px;
 	text-align: center;
